@@ -5,7 +5,7 @@ body {
   .dot {
     height: 8px;
     width: 8px;
-    border-radius: 4px; /* rounds corners */
+    border-radius: 4px;
     background: rgb(255, 255, 255);
     position: absolute;
   }
