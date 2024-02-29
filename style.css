@@ -1,0 +1,26 @@
+body {
+    height: 1080px;
+    background: black;
+  }
+  .dot {
+    height: 8px;
+    width: 8px;
+    border-radius: 4px; /* rounds corners */
+    background: rgb(255, 255, 255);
+    position: absolute;
+  }
+  #dotDiv{
+    width: 100%;
+    height: 100%;
+  }
+  
+  .text{
+    color: white;
+    background-color: transparent;
+  }
+  
+  .clean{
+    color: white;
+    background-color: transparent;
+    border-color: white;
+  }
